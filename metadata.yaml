@@ -1,0 +1,61 @@
+_repo: Stories-by-English-Authors--The-Orient--Selected-by-Scribners-_2035
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Mitford, Mary Russell
+    alias: Mitford, Miss
+    birthdate: 1787
+    deathdate: 1855
+    gutenberg_agent_id: '939'
+    url: http://www.gutenberg.org/2009/agents/939
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Russell_Mitford
+  - agent_name: Syrett, Netta
+    alias: Syrett, Janet
+    birthdate: &id001 1865
+    deathdate: 1943
+    gutenberg_agent_id: '6244'
+    url: http://www.gutenberg.org/2009/agents/6244
+    wikipedia: http://en.wikipedia.org/wiki/Netta_Syrett
+  - agent_name: Beaumont, Mary
+    gutenberg_agent_id: '6243'
+    url: http://www.gutenberg.org/2009/agents/6243
+  - agent_name: Roberts, Morley
+    birthdate: 1857
+    deathdate: 1942
+    gutenberg_agent_id: '6241'
+    url: http://www.gutenberg.org/2009/agents/6241
+  - agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: *id001
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+  - agent_name: Douglas, Robert K. (Robert Kennaway), Sir
+    birthdate: 1838
+    deathdate: 1913
+    gutenberg_agent_id: '6242'
+    url: http://www.gutenberg.org/2009/agents/6242
+description: ''
+gutenberg_bookshelf: Short Stories
+gutenberg_issued: '2006-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2035'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: The man who would be king, by Rudyard Kipling -- Tajima, by Miss
+  Mitford -- A Chinese girl graduate, by R. K. Douglas -- The revenge of her race,
+  by Mary Beaumont -- King Billy of Ballarat, by Morley Roberts -- Thy heart's desire,
+  by Netta Syrett
+title: 'Stories by English Authors: The Orient (Selected by Scribners)'
+url: http://www.gutenberg.org/ebooks/2035
