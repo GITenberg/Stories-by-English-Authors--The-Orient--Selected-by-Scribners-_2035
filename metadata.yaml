@@ -1,5 +1,5 @@
 _repo: Stories-by-English-Authors--The-Orient--Selected-by-Scribners-_2035
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributors:
   - agent_name: Mitford, Mary Russell
@@ -11,7 +11,7 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/Mary_Russell_Mitford
   - agent_name: Syrett, Netta
     alias: Syrett, Janet
-    birthdate: &id001 1865
+    birthdate: 1865
     deathdate: 1943
     gutenberg_agent_id: '6244'
     url: http://www.gutenberg.org/2009/agents/6244
@@ -28,7 +28,7 @@ contributor:
     aliases:
     - Kipling, R. (Rudyard)
     - Kipling, Joseph Rudyard
-    birthdate: *id001
+    birthdate: 1865
     deathdate: 1936
     gutenberg_agent_id: '132'
     url: http://www.gutenberg.org/2009/agents/132
