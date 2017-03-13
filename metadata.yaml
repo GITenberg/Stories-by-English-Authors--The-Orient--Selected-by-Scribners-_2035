@@ -1,5 +1,5 @@
 _repo: Stories-by-English-Authors--The-Orient--Selected-by-Scribners-_2035
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Mitford, Mary Russell
@@ -38,7 +38,12 @@ contributor:
     deathdate: 1913
     gutenberg_agent_id: '6242'
     url: http://www.gutenberg.org/2009/agents/6242
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2035#Stories-by-English-Authors--The-Orient--Selected-by-Scribners-
 gutenberg_bookshelf: Short Stories
 gutenberg_issued: '2006-03-26'
 gutenberg_type: Text
